@@ -58,7 +58,7 @@
 
 ### 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/ВАШ_ЛОГИН/super-neural-assistant.git
+git clone https://github.com/kotsolga3883-arch/super-neural-assistant.git
 cd super-neural-assistant
 ```
 
