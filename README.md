@@ -132,7 +132,9 @@ python main.py
 ## 📸 Скриншоты
 
 ### Распознавание лица и эмоций
-![Распознавание](screenshots/face_recognition.png)
+<img width="1920" height="1080" alt="2026-09-03_21-17-23" src="https://github.com/user-attachments/assets/23bf255a-a3a9-4403-8cd8-2ca58d2dc32f" />
+<img width="1920" height="1080" alt="2026-09-03_21-15-16" src="https://github.com/user-attachments/assets/9b39f751-d880-4490-93fd-ad7cc6c9fb4f" />
+(screenshots/face_recognition.png)
 
 ### Голосовые команды
 ![Команды](screenshots/voice_commands.png)
