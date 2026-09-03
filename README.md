@@ -149,4 +149,4 @@ MIT License
 
 ## 👤 Автор
 
-Ольга Дородняя
+Olga Kots 
