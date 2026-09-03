@@ -1,0 +1,37 @@
+# === ПЕРСОНАЛЬНЫЕ ДАННЫЕ (НЕ ПУБЛИКОВАТЬ!) ===
+known_faces/
+known_voices/
+voice_notes.txt
+known_faces_cache.json
+
+# === БОЛЬШИЕ ФАЙЛЫ МОДЕЛЕЙ ===
+vosk-model-ru-0.42/
+*.model
+*.bin
+
+# === ВРЕМЕННЫЕ ФАЙЛЫ ===
+*.mp3
+*.tmp
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# === IDE и редакторы ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# === ВИРТУАЛЬНОЕ ОКРУЖЕНИЕ ===
+venv/
+env/
+ENV/
+
+# === ЛОГИ ===
+*.log
