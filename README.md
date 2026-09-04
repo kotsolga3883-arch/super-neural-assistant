@@ -5,7 +5,8 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 Интеллектуальный голосовой ассистент с распознаванием лиц, эмоций и определением "свой-чужой" на Python.
-
+[![Демонстрация работы Super Neural Assistant](https://img.[youtube.com/vi/ВАШ_ID_ВИДЕО/maxresdefault.jpg](https://www.youtube.com/shorts/6t07YOtpqkU))](https://www.youtube.com/shorts/6t07YOtpqkU))](https://www.youtube.com/watch?v=ВАШ_ID_ВИДЕО)
+*Нажмите на картинку, чтобы посмотреть видео-демонстрацию проекта*
 
 ### 🎭 Распознавание лиц и эмоций
 - Идентификация знакомых лиц по технологии **FaceNet** через **DeepFace**
